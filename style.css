@@ -35,7 +35,7 @@
     
         background-color:  #7F1D1D;
         border: none;
-    
+        position: relative;
         margin: 1rem 35rem;
         padding: 1rem 2rem;
         font-size: large;
